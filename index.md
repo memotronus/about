@@ -10,8 +10,8 @@ title: Home
     <p class="lead">How do you connect passion for science, humanities, and art? I believe the best ideas emerge from broadening your horizons. Nuclear fusion, digital forensics, intelligence, piano performance, photography, Muay Thai — just a few topics I pursue.</p>
 
     <div class="cta-row">
-      <a class="primary" href="projects.md">See projects</a>
-      <a class="secondary" href="contact.md">Contact</a>
+      <a class="primary" href="{{ '/projects.html' | relative_url }}">See projects</a>
+      <a class="secondary" href="{{ '/contact.html' | relative_url }}">Contact</a>
     </div>
   </section>
 
@@ -38,9 +38,9 @@ title: Home
   <section class="panel links-panel">
     <h2>Featured links</h2>
     <ul class="inline-links">
-      <li><a href="projects.md">Projects</a></li>
-      <li><a href="education.md">Education</a></li>
-      <li><a href="contact.md">Contact</a></li>
+      <li><a href="{{ '/projects.html' | relative_url }}">Projects</a></li>
+      <li><a href="{{ '/education.html' | relative_url }}">Education</a></li>
+      <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
     </ul>
   </section>
 </div>
