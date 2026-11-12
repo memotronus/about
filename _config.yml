@@ -2,6 +2,6 @@ title: Jaffa
 email: hello@example.com
 description: >
   Research, engineering, design, and creative systems.
-baseurl: "/aboutsite"
+baseurl: "/about"
 url: "https://memotronus.github.io"
 theme: minima
