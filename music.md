@@ -6,7 +6,9 @@ permalink: /music/
 
 # Music
 
-Sheet music, arrangements, and recordings. Add scores, performance details, and recordings below, or create a separate page for each piece.
+Sheet music, arrangements, and recordings. Use this page as the archive for performances and compositions.
+
+<p><a href="{{ site.baseurl }}/projects/">Back to Projects</a></p>
 
 ## Pieces
 

@@ -6,8 +6,10 @@ permalink: /photography/
 
 # Photography
 
-Photo collections, stories, and images worth sharing. Add a section for each collection, with images stored in the site's assets directory and captions or links as needed.
+Photo collections, stories, and images worth sharing. Use this page to house galleries and series.
+
+<p><a href="{{ site.baseurl }}/projects/">Back to Projects</a></p>
 
 ## Collections
 
-<!-- Add collection titles, photographs, captions, and galleries here. -->
+<!-- Add collection titles, photographs, captions, and gallery links here. -->

@@ -20,13 +20,11 @@ A home for the things I build, investigate, write, photograph, and play. Use the
   <p>Engineering projects, research, and scientific work.</p>
 
   <div class="project-entry">
-    <h3>Project title</h3>
-    <p class="project-meta">Year · Role / Topic</p>
-    <p>Descriptions.</p>
+    <h3>Project archive</h3>
+    <p class="project-meta">Research · Technical work</p>
+    <p>Browse the engineering and scientific work here, including write-ups, notes, and project pages as they are published.</p>
     <ul class="project-links">
-      <li><a href="">Read the write-up</a></li>
-      <li><a href="">Watch the video</a></li>
-      <li><a href="">View project files</a></li>
+      <li><a href="{{ site.baseurl }}/engineering/">Browse engineering projects</a></li>
     </ul>
   </div>
 </section>
@@ -37,10 +35,10 @@ A home for the things I build, investigate, write, photograph, and play. Use the
   <p>Poetry, essays, reporting, and other writing projects.</p>
 
   <div class="project-entry">
-    <h3>Piece title</h3>
-    <p class="project-meta">Form · Date or publication</p>
-    <p>Add a brief note about the piece, why it matters, or a short excerpt.</p>
-    <p><a href="">Read the piece</a></p>
+    <h3>Writing archive</h3>
+    <p class="project-meta">Poetry · Essays · Reporting</p>
+    <p>A place for published work, drafts, and longer pieces. This page can expand as the writing grows.</p>
+    <p><a href="{{ site.baseurl }}/writing/">Read the writing archive</a></p>
   </div>
 </section>
 
@@ -50,10 +48,10 @@ A home for the things I build, investigate, write, photograph, and play. Use the
   <p>Photo collections, stories, and images worth sharing.</p>
 
   <div class="project-entry">
-    <h3>Photo story or collection</h3>
-    <p class="project-meta">Place · Year · Series</p>
-    <p>links to galleries.</p>
-    <p><a href="">View the collection</a></p>
+    <h3>Photo collections</h3>
+    <p class="project-meta">Places · People · Stories</p>
+    <p>Links to photo essays, collections, and galleries from across my work.</p>
+    <p><a href="{{ site.baseurl }}/photography/">View the photography archive</a></p>
   </div>
 </section>
 
@@ -63,12 +61,11 @@ A home for the things I build, investigate, write, photograph, and play. Use the
   <p>Sheet music, arrangements, and links to recordings.</p>
 
   <div class="project-entry">
-    <h3>Piece title — Composer</h3>
-    <p class="project-meta">Instrument · Arrangement / Performance</p>
-    <p>=performance details.</p>
+    <h3>Music archive</h3>
+    <p class="project-meta">Instrument · Arrangement · Performance</p>
+    <p>Listen to recordings, view scores, and browse arrangements in one place.</p>
     <ul class="project-links">
-      <li><a href="">View sheet music</a></li>
-      <li><a href="">Listen to the recording</a></li>
+      <li><a href="{{ site.baseurl }}/music/">Browse the music archive</a></li>
     </ul>
   </div>
 </section>
