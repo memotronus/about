@@ -7,7 +7,7 @@ title: Home
   <section class="hero">
     <p class="eyebrow">Research • Engineering • Design</p>
     <h1>Hello, I’m Jaffa</h1>
-    <p class="lead">How do you connect passion for science, humanities, and art? I believe the best ideas emerge from broadening your horizons. astronomy, digital forensics, intelligence, piano performance, photography, martial arts, and writing are just a few things that pique my interest.</p>
+    <p class="lead">How do you connect passion for science, humanities, and art? I believe the best ideas emerge from broadening your horizons. astronomy, digital forensics, intelligence, piano performance, photography, martial arts, fusion, and writing are just a few things that pique my interest.</p>
 
     <div class="cta-row">
       <a class="primary" href="{{ '/projects.html' | relative_url }}">See projects</a>
@@ -28,9 +28,9 @@ title: Home
     <div class="panel">
       <h2>Highlights</h2>
       <ul>
-        <li>Strong emphasis on clean code and good design</li>
-        <li>Experience with web development and data projects</li>
-        <li>Curious about product building and research</li>
+        <li>Emphasis on small teams across larger scale projects</li>
+        <li>Experience with simulations and hands-on engineering design</li>
+        <li>Interest in astrophysical research and fusion energy</li>
       </ul>
     </div>
   </section>
