@@ -252,6 +252,82 @@ li::marker {
   border-bottom: 2px solid rgba(125, 232, 255, 0.5);
 }
 
+.project-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.project-nav a {
+  display: inline-block;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.04);
+  text-decoration: none;
+}
+
+.project-nav a:hover,
+.project-nav a:focus {
+  border-color: var(--accent);
+  background: rgba(125, 232, 255, 0.1);
+}
+
+.project-section {
+  scroll-margin-top: 6rem;
+  padding: 1.8rem 0 2.2rem;
+  border-top: 1px solid var(--line);
+}
+
+.project-section h2 {
+  margin: 0 0 0.6rem;
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  letter-spacing: -0.04em;
+}
+
+.project-section > p:not(.eyebrow) {
+  max-width: 760px;
+  color: var(--muted);
+}
+
+.project-entry {
+  margin-top: 1.3rem;
+  padding: 1.3rem 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+}
+
+.project-entry h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.project-entry p {
+  color: var(--muted);
+}
+
+.project-entry a {
+  color: var(--accent);
+  text-underline-offset: 0.2em;
+}
+
+.project-entry .project-meta {
+  margin: 0.2rem 0 0.8rem;
+  color: var(--accent-2);
+  font-size: 0.9rem;
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.5rem;
+  padding-left: 1.2rem;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   background: rgba(6, 9, 18, 0.7);
