@@ -6,7 +6,7 @@ permalink: /music/
 
 # Music
 
-Sheet music, arrangements, and recordings. Use this page as the archive for performances and compositions.
+Sheet music, arrangements, and performance recordings.
 
 <p><a href="{{ site.baseurl }}/projects/">Back to Projects</a></p>
 
