@@ -17,12 +17,12 @@ A home for the things I build, investigate, write, photograph, and play. Use the
 <section class="project-section" id="engineering-science">
   <p class="eyebrow">Build · Explore · Explain</p>
   <h2>Engineering &amp; Science</h2>
-  <p>Engineering projects, research, and scientific work. Add write-ups, design notes, videos, and project links here.</p>
+  <p>Engineering projects, research, and scientific work.</p>
 
   <div class="project-entry">
     <h3>Project title</h3>
     <p class="project-meta">Year · Role / Topic</p>
-    <p>Add a short description of the problem, the work you did, and what you learned.</p>
+    <p>Descriptions.</p>
     <ul class="project-links">
       <li><a href="">Read the write-up</a></li>
       <li><a href="">Watch the video</a></li>
@@ -47,25 +47,25 @@ A home for the things I build, investigate, write, photograph, and play. Use the
 <section class="project-section" id="photography">
   <p class="eyebrow">Frames · Places · People</p>
   <h2>Photography</h2>
-  <p>Photo collections, stories, and individual images worth sharing.</p>
+  <p>Photo collections, stories, and images worth sharing.</p>
 
   <div class="project-entry">
     <h3>Photo story or collection</h3>
     <p class="project-meta">Place · Year · Series</p>
-    <p>Add a short caption describing the series or project. Link to a gallery or embed images here.</p>
+    <p>links to galleries.</p>
     <p><a href="">View the collection</a></p>
   </div>
 </section>
 
 <section class="project-section" id="music">
-  <p class="eyebrow">Sheet Music · Recordings</p>
+  <p class="eyebrow">Compositions · Recordings</p>
   <h2>Music</h2>
   <p>Sheet music, arrangements, and links to recordings.</p>
 
   <div class="project-entry">
     <h3>Piece title — Composer</h3>
     <p class="project-meta">Instrument · Arrangement / Performance</p>
-    <p>Describe the piece, your interpretation, and any performance details.</p>
+    <p>=performance details.</p>
     <ul class="project-links">
       <li><a href="">View sheet music</a></li>
       <li><a href="">Listen to the recording</a></li>
