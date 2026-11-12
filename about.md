@@ -10,9 +10,7 @@ Originally from Chicago, I've grown up exposed to all walks of life and experien
 ## Skills
 
 - Open-Source Intelligence Collection
-- Python
-- C++
-- Java
+- Python/C++/Java
 - Altium
 - Nx
 - Piano Performance
@@ -23,4 +21,4 @@ Originally from Chicago, I've grown up exposed to all walks of life and experien
 - Digital Forensics, Forensics Science
 - RF
 - Photography
-- Muay Thai
+- Martial Arts
