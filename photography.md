@@ -6,7 +6,7 @@ permalink: /photography/
 
 # Photography
 
-Photo collections, stories, and images worth sharing. Use this page to house galleries and series.
+Photo collections, stories, and images
 
 <p><a href="{{ site.baseurl }}/projects/">Back to Projects</a></p>
 
