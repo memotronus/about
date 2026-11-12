@@ -6,7 +6,7 @@ permalink: /writing/
 
 # Writing
 
-Poetry, essays, reporting, and other writing projects. This page acts as the archive for your writing work.
+Poetry, essays, articles, and other writing projects.
 
 <p><a href="{{ site.baseurl }}/projects/">Back to Projects</a></p>
 
@@ -14,6 +14,6 @@ Poetry, essays, reporting, and other writing projects. This page acts as the arc
 
 <!-- Add poems here, or link each title to its own page. -->
 
-## Essays & Journalism
+## Essays & Articles
 
 <!-- Add essays and published reporting here. -->
