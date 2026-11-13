@@ -12,4 +12,6 @@ Photo collections, stories, and images
 
 ## Collections
 
-<!-- Add collection titles, photographs, captions, and gallery links here. -->
+### University of Southern California
+
+<!-- Add photographs, captions, and a gallery link for this collection here. -->
